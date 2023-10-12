@@ -1,6 +1,11 @@
 <?php
-session_start();
+session_start(); // Démarrage de la session
 
+// Vérifiez si l'utilisateur est connecté, sinon redirigez-le vers la page de connexion
+if (!isset($_SESSION['user'])) {
+    header('Location: pre-index.php'); // Remplacez "login.php" par la page de connexion réelle
+    exit();
+}
 ?>
 <!DOCTYPE html>
 <html lang="fr">

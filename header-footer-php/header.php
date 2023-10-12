@@ -28,7 +28,7 @@
             </li>
             <li class="li-menu">
                 <a class="lien-menu"
-                href="landing.php"><img class="cart-svg" src="/assets/img/img-plat-accueil/account.svg" alt="">
+                href="/landing.php"><img class="cart-svg" src="/assets/img/img-plat-accueil/account.svg" alt="">
             </a>
             </li>
             
