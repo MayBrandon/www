@@ -26,14 +26,14 @@
                 </ul>
             </div>
 
-            <div class="categorie-block">
+            <!-- <div class="categorie-block">
                 <h4 class="footer-title">Réservation :</h4>
                 <br>
                 <ul class="categorie-liste">
-                    <li ><a class="categorie-li" href="#">CATEGORIE</a></li>
+                    <li><a class="categorie-li" href="#">CATEGORIE</a></li>
                     <li><a class="categorie-li" href="#">CATEGORIE</a></li>
                 </ul>
-            </div>
+            </div> -->
 
             <div class="categorie-block">
                 <h4 class="footer-title">Contactez-nous</h4>

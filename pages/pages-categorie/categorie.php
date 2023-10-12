@@ -28,6 +28,9 @@ if (!isset($_SESSION['user'])) {
 
 <div class="div-body">
     <h1 class="titre-categorie">Nos categories : </h1>
+
+
+
     <div class="div-categorie">
         <div class="img-categorie">
             <img src="/assets/img/img-categorie/categorie-ramen/ramen-poulet.png" class="img-categorie">
@@ -39,7 +42,7 @@ if (!isset($_SESSION['user'])) {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil dolorem laborum aperiam soluta natus voluptatem repellendus expedita illum? Non temporibus sed officia expedita provident quidem reiciendis. Dolore natus accusamus libero minima repellat praesentium dolorem magni eveniet reprehenderit eum perferendis fugit, saepe pariatur nam maxime, beatae obcaecati rem sit qui voluptas quia tempora ab! Sapiente eum officia eaque consequuntur reiciendis cum laboriosam et optio consequatur? Quo, esse laboriosam adipisci dicta amet, officia eum sint laborum rem in fugit. Voluptates saepe natus amet consequatur atque odit reiciendis v
                 </p>
             </div>
-            
+
             <div class="div-button">
                 <a class="lien-categorie" href="/pages/pages-categorie/categories-plats/ramens/categorie-ramen.php">
                     Accedez à la categorie
@@ -47,6 +50,7 @@ if (!isset($_SESSION['user'])) {
             </div>
         </div>
     </div>
+
     <div class="div-categorie">
         <div class="img-categorie">
             <img src="/assets/img/img-categorie/categorie-burger/burger-voltneva.png" class="img-categorie">
